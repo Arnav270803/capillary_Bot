@@ -31,6 +31,7 @@ This project was thrown together as a weekend hack to streamline CapillaryTech q
 
 ## Quick Setup
 
+{Note: i give keys in env for quick setup , in real project i never does that}
 ### Prerequisites
 - Node.js (v18+) and Python 3.8+ (for scrapers).
 - Free OpenRouter API key: Sign up at [openrouter.ai](https://openrouter.ai) and grab your key.
